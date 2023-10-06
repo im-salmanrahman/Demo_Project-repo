@@ -1,2 +1,2 @@
 # Demo_Project-repo
- Demo OOP project
+This is a demo project file.
